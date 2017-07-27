@@ -13,7 +13,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>echo xml on git</command>
+      <command>echo xml on git updated</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers/>
