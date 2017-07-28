@@ -29,7 +29,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>echo hi</command>
+      <command>echo ssh accepted</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers/>
